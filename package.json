@@ -1,0 +1,25 @@
+{
+  "name": "simple-react-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "history": "^5.0.0",
+    "react": "^16.3.2",
+    "react-alert-confirm": "^2.0.3",
+    "react-bootstrap": "^1.4.0",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
